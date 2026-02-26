@@ -2,3 +2,6 @@
 *.jpg
 *.png
 *.tif
+__pycache__
+runs
+*.deb
