@@ -2,6 +2,9 @@
 *.jpg
 *.png
 *.tif
+*.deb
+
 __pycache__
 runs
-*.deb
+results
+checkpoints

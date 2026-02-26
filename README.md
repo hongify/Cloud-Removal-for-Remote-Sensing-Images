@@ -49,3 +49,7 @@ Construct a 15-channel tensor dataset following this order:
 Execute the training script with desired hyperparameters:
 ```bash
 python train.py --batch_size 16 --epochs 100 --lr 0.0002
+
+#### 3. demo
+```bash
+python demo.py 
