@@ -1,0 +1,6 @@
+torch==2.4.0+cu118 --extra-index-url https://download.pytorch.org/whl/cu118
+numpy==1.26.4
+matplotlib==3.10.8
+rasterio==1.4.4
+tqdm
+tensorboard
