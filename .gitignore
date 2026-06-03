@@ -1,0 +1,10 @@
+*.pth
+*.jpg
+*.png
+*.tif
+*.deb
+
+__pycache__
+runs
+results
+checkpoints
